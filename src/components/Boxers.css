@@ -1,0 +1,6 @@
+.boxers__container {
+    margin: 25px 10%;
+    display: flex;
+    flex-wrap: wrap;
+    
+}

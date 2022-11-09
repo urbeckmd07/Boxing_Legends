@@ -1,0 +1,25 @@
+.addBoxerModal__Header {
+    display: flex;
+    height: 25vh;
+    min-height: 200px;
+    background-size: cover;
+    margin-bottom: -160px;
+    background-position: center center;
+}
+
+.addBoxerModal__Header:hover {
+    cursor: pointer;
+}
+
+.addBoxer__textArea {
+    width: 100%;
+    max-width: 100%;
+}
+
+.addBoxer__footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+

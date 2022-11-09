@@ -1,0 +1,74 @@
+.boxerCard__Container {
+    border-radius: 10px;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.boxerCard__Container:hover {
+    cursor: pointer;
+}
+
+.boxerCard__body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.boxerCard__name {
+    margin: 0 0 5px 0;
+}
+
+.boxerCard__record {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.boxerCard__nameInput {
+    width: 96%;
+    border: none;
+    font-size: 18px;
+}
+
+.boxerCard__yearsActive {
+    display: flex;
+}
+
+.boxerCard__debutInput {
+    width: 5ch;
+    border: none;
+    text-align: center;
+}
+
+.boxerCard__retireInput {
+    width: 8ch;
+    border: none;
+    text-align: left;
+    margin-left: 2px;
+}
+
+.boxerCard__dash {
+    margin: 0 0 3px 0;
+}
+
+.boxerCard__record {
+    display: flex;
+}
+
+.boxerCard__recordInput {
+    width: 3ch;
+    border: none;
+    text-align: center;
+    font-size: 15px;
+}
+
+.boxerCard__recordWins {
+    width: 4ch;
+    border: none;
+    text-align: center;
+    font-size: 15px;
+}
+
+input:focus::placeholder {
+    color: transparent;
+  }

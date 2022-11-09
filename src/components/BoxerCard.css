@@ -1,0 +1,28 @@
+.boxerCard__container {
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.boxerCard__container:hover {
+    transform: scale(1.05);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.boxerCard__container:hover {
+    cursor: pointer;
+}
+
+.boxerCard__body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.boxerCard__name {
+    margin: 0;
+}
+
+.boxerCard__record {
+    font-weight: 500;
+    font-size: 20px;
+}

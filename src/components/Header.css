@@ -1,0 +1,33 @@
+.header__container {
+    background: rgb(221, 69, 69);
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 10px 60px;
+    align-items: center;
+}
+
+.header__left {
+    display: flex;
+    align-items: center;
+}
+
+.header__left > h1 {
+    font-weight: 300;
+}
+
+.header__logo {
+    height: 60px;
+    width: auto;
+    margin-right: 20px;
+}
+
+.header__home > h2 {
+    font-weight: 200;
+    font-size: 25px;
+}
+
+.header__home:hover {
+    cursor: pointer;
+    color: lightgray;
+}

@@ -1,0 +1,14 @@
+.app__body {
+    background-color: whitesmoke;
+}
+
+.app__body {
+    display: grid;
+    
+    /* flex-direction: column;
+    min-height: calc(100vh - 80px);
+    justify-content: space-between; */
+}
+.app__boxers {
+    align-items: flex-start;
+}
