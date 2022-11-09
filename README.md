@@ -2,6 +2,7 @@
 
 ## Home Page
 - This is the home page that loads when the application is opened.
+
 ![](resourcesForReadme/homePage.png)
 
 ## Add New Boxer
@@ -12,6 +13,7 @@
 - The text area at the bottom is where you can add info about the boxer.
 - Clicking "Done" uploads the new boxer and returns to the updated home page.
 - Clicking "Close" returns to the home screen without saving the changes.
+
 ![](resourcesForReadme/addBoxer.png)
 
 ## Search for Boxer
