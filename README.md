@@ -17,10 +17,17 @@
 ![](resourcesForReadme/addBoxer.png)
 
 ## Search for Boxer
+- Clicking "Search for Boxer" in the upper left corner allows you to search for boxers present in the list.
+
 ![](resourcesForReadme/searchBoxer.png)
 
 ## View Boxer
+- Clicking on a boxer's card brings up the view in the image below.
+
 ![](resourcesForReadme/viewBoxer.png)
 
 ## Update Info
+- When a boxer card opened, clicking on "Update Info" brings up the component in the image seen below.
+- New information can be typed in text bar and when "Submit" is clicked it will update the list of info and remove the text bar from view.
+
 ![](resourcesForReadme/clickUpdateInfo.png)
