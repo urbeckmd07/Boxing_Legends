@@ -1,10 +1,10 @@
 # Functionality of this application
 
-##### Home Page
+## Home Page
 ![](resourcesForReadme/homePage.png)
 
-##### Add New Boxer
+## Add New Boxer
 
-##### Search for Boxer
+## Search for Boxer
 
-##### View Boxer
+## View Boxer
